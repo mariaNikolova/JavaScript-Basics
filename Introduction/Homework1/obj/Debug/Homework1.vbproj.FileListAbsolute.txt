@@ -1,0 +1,8 @@
+D:\software university\Java Script\Homework1\Homework1\bin\Homework1.dll
+D:\software university\Java Script\Homework1\Homework1\bin\Homework1.pdb
+D:\software university\Java Script\Homework1\Homework1\bin\Homework1.xml
+D:\software university\Java Script\Homework1\Homework1\obj\Debug\Homework1.Resources.resources
+D:\software university\Java Script\Homework1\Homework1\obj\Debug\Homework1.vbproj.GenerateResource.Cache
+D:\software university\Java Script\Homework1\Homework1\obj\Debug\Homework1.dll
+D:\software university\Java Script\Homework1\Homework1\obj\Debug\Homework1.xml
+D:\software university\Java Script\Homework1\Homework1\obj\Debug\Homework1.pdb
